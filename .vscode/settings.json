@@ -5,5 +5,9 @@
       "extensionName": ".css",
       "savePath": "/css"
     }
+  ],
+  "liveSassCompile.settings.autoprefix": [
+    "last 2 version",
+    "> 1%",
   ]
 }
